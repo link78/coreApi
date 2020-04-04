@@ -20,7 +20,13 @@ namespace WebApi.Models
         {
                new Book{Id=1, AuthorName="Jessica T", Title="Wind comes", Price=20, Year=2010, Genre="Romane"},
                 new Book{Id=2, AuthorName="Loiuse T", Title="The man and the tiger", Price=20, Year=2015, Genre="Adventure"},
-                new Book{Id=3, AuthorName="Lorraine Q", Title="Come Out", Price=10, Year=2000, Genre="Comedy"}
+                new Book{Id=3, AuthorName="Lorraine Q", Title="Come Out", Price=10, Year=2000, Genre="Comedy"},
+                new Book{Id=4, AuthorName="Pierre Francoise T", Title="The sea and the whale", Price=8, Year=2016, Genre="Adventure"},
+                new Book{Id=5, AuthorName="Margot Rice", Title="Children and the dog", Price=15, Year=2019, Genre="Adventure"},
+                new Book{Id=6, AuthorName="James Paul", Title="Welcome Home", Price=10, Year=2020, Genre="Comedy"},
+                new Book{Id=7, AuthorName="Nicole Wallas", Title="Technology and the Future", Price=10, Year=2017, Genre="Science Fiction"},
+                new Book{Id=8, AuthorName="Josh Lorraine", Title="The killer return home", Price=10, Year=2017, Genre="Adventure-Action"},
+                new Book{Id=9, AuthorName="Adams Freeman", Title="The long drive", Price=10, Year=2015, Genre="Comedy"}
         };
 
         // getting all books
